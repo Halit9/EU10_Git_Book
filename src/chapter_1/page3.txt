@@ -1,3 +1,5 @@
-we continue
+welcome to git
 
-another line
+i hope you are having fun
+
+missing java maybe
