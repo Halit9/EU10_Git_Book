@@ -1,5 +1,5 @@
 this is page 1
-
 we are studying on git
-
-third line
+third line.
+this is the start of my book.
+java is cool!
